@@ -1,0 +1,69 @@
+.divImagen{
+    width: 100px;
+	height: 100px;
+    float: left;
+    margin-left: 100px;
+}
+
+.divFormulario{
+    
+    float: right;
+    width: 500px;
+    margin-left: 150px; 
+    padding-right: 50%;
+ 
+}
+
+.email {
+    width: 500px;
+    height: 20px;
+
+}
+
+.username {
+
+    width: 500px;
+    height: 20px;
+
+}
+
+.password {
+
+    width: 500px;
+    height: 20px;
+
+}
+.divListado {
+    width: 90%;
+    height: 100px;
+    
+
+}
+.listaIzquierda {
+    float: left;
+}
+
+.listaDerecha {
+    float: right;
+}
+
+.casillaBoton { 
+    float: right;
+    width: 100%;
+    height: 70px;
+}
+
+.divCasilla {
+    float: right;
+}
+
+.divboton {
+    float: left; 
+    width: 100%;
+    height: 10px;   
+
+}
+
+.divComentario {
+    
+}
